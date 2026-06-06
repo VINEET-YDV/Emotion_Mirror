@@ -1,0 +1,3 @@
+opencv-python>=4.8.0
+deepface>=0.0.80
+tf-keras>=2.16.0
