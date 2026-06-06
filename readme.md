@@ -26,7 +26,7 @@ To make the experience feel like a polished product rather than a raw script, I 
 * Python 3.9 - 3.11 recommended
 * A working integrated or USB webcam
 
-### 1. Environment Configuration
+### Environment Configuration
 Navigate to your project directory and create a clean isolated Python virtual environment:
 
 ```bash
